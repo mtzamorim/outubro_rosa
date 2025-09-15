@@ -1,7 +1,6 @@
 "use client";
 
 export function Header() {
-  console.log("Header");
 
   return (
     <h1
